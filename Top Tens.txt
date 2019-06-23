@@ -1,5 +1,6 @@
 
 
+
 <html>
 <head>
 <style>
@@ -41,7 +42,7 @@ li a:hover {
 <img src="cinemastat logo.png" alt="cinemastat logo" style="width: 400px;height: 100px;">
 <br>
 <ul>
-  <li><a class="active" href="cinemastat homepage.html">Home</a></li>
+  <li><a class="active" href="index.html">Home</a></li>
   <li><a href="100 Best Films Page.html">100 Best Films</a></li>
   <li><a href="Actors.html">Actors & Actresses</a></li>
   <li><a href="Directors.html">Directors</a></li>
@@ -49,12 +50,12 @@ li a:hover {
   <li><a href="About Page.html">About</a></li>
 </ul>
 <br>
-<p>My personal top ten films</p>
-<ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
+<img src="top tens pic.png" alt="top tens" style="width: 100%;height: 120px;">
+<p>My personal top ten films.</p>
+<p>1. Sansho the Bailiff (1954, Mizoguchi) <br> 2. Mulholland Dr. (2001, Lynch) <br> 3. 
+Playtime (1967, Tati) <br> 4. To Live (1994, Zhang) <br> 5. Viridiana (1960, Bunuel) <br> 
+6. Eraserhead (1977, Lynch) <br> 7. Dogville (2003, von Trier) <br> 8. The Shining (1980, Kubrick)
+<br> 9. Tokyo Story (1953, Ozu) <br> 10. Daisies (1966, Chytilova) </p>
 </div>
    </body>
 </html>

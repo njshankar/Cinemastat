@@ -6,9 +6,16 @@
 
 
 
+
 <html>
 <head>
 <style>
+table{
+width: 100%
+}
+table, th, td {
+  border: 1px solid black;
+}
 div {
  background-color: #D0D0C5;
   max-width: 70%;
@@ -47,7 +54,7 @@ li a:hover {
 <img src="cinemastat logo.png" alt="cinemastat logo" style="width: 400px;height: 100px;">
 <br>
 <ul>
-  <li><a class="active" href="cinemastat homepage.html">Home</a></li>
+  <li><a class="active" href="index.html">Home</a></li>
   <li><a href="100 Best Films Page.html">100 Best Films</a></li>
   <li><a href="Actors.html">Actors & Actresses</a></li>
   <li><a href="Directors.html">Directors</a></li>
@@ -55,18 +62,128 @@ li a:hover {
   <li><a href="About Page.html">About</a></li>
 </ul>
 <br>
-<center><p><b>Bong, Joon-ho (1969 - present)</b><br><b>Country:</b> South Korea<br><b>Years Active:</b> 1994 - present<br><b>Top Films:</b> Memories of Murder (2003), The Host (2006), Parasite (2019)</p></center>
+<center><p><b>Bong, Joon-ho (1969 - present)</b><br><b>Country:</b> South Korea<br><b>Years Active:</b> 1994 - present<br><b>Top Period:</b> 2003 - present<br><b>Top Films:</b> Memories of Murder (2003), The Host (2006), Parasite (2019)</p></center>
 <hr>
 <br>
 <table>
   <tr>
-    <th>Rank</th>
     <th>Film</th>
-    <th>Score</th>
+    <th>Epic</th>
+    <th>Rev.</th>
     <th>Year</th>
-    <th>Director</th>
-    <th>Country</th>
     <th>Runtime</th>
+    <th>Genre</th>
+    <th>Vio</th>
+    <th>Sex</th>
+    <th>Empire</th>
+    <th>S&S</th>
+    <th>VV</th>
+    <th>TSPDT</th>
+    <th>TSPDT 21</th>
+    <th>AW</th>
+    <th>AN</th>
+  </tr>
+  <tr bgcolor="ForestGreen">
+    <td>Memories of Murder</td>
+    <td>81</td>
+    <td>28</td>
+    <td>2003</td>
+    <td>127</td>
+    <td>Crime</td>
+    <td>2</td>
+    <td>2</td>
+    <td></td>
+    <td></td>
+   <td></td>
+    <td>793</td>
+    <td>124</td>
+    <td>26</td>
+    <td>3</td>
+  </tr>
+  <tr bgcolor="ForestGreen">
+    <td>The Host</td>
+    <td>78</td>
+    <td>115</td>
+    <td>2006</td>
+    <td>119</td>
+    <td>Sci-Fi</td>
+    <td>3</td>
+    <td>1</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>752</td>
+    <td>89</td>
+    <td>25</td>
+    <td>27</td>
+  </tr>
+  <tr bgcolor="DarkSeaGreen">
+    <td>Mother</td>
+    <td>81</td>
+    <td>81</td>
+    <td>2009</td>
+    <td>128</td>
+    <td>Drama</td>
+    <td>2</td>
+    <td>2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>343</td>
+    <td>38</td>
+    <td>44</td>
+  </tr>
+  <tr bgcolor = "DarkSeaGreen">
+    <td>Snowpiercer</td>
+    <td>81</td>
+    <td>144</td>
+    <td>2013</td>
+    <td>126</td>
+    <td>Sci-Fi</td>
+    <td>3</td>
+    <td>1</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>33</td>
+    <td>103</td>
+  </tr>
+  <tr>
+    <td>Okja</td>
+    <td>74</td>
+    <td>104</td>
+    <td>2017</td>
+    <td>120</td>
+    <td>Adventure</td>
+    <td>2</td>
+    <td>1</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>7</td>
+    <td>13</td>
+  </tr>
+  <tr bgcolor="ForestGreen">
+    <td>Parasite</td>
+    <td>90</td>
+    <td>23</td>
+    <td>2019</td>
+    <td>132</td>
+    <td>Drama</td>
+    <td>1</td>
+    <td>2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>3</td>
+    <td>1</td>
   </tr>
 </table>
 </div>
