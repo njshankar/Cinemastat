@@ -1,0 +1,74 @@
+
+
+
+
+
+
+
+
+<html>
+<head>
+<style>
+div {
+ background-color: #D0D0C5;
+  max-width: 70%;
+  border: 15px double black;
+  padding: 50px;
+  margin: auto;
+
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: yellow;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+</style>
+   </head>
+   <body>
+<div>
+<img src="cinemastat logo.png" alt="cinemastat logo" style="width: 400px;height: 100px;">
+<br>
+<ul>
+  <li><a class="active" href="cinemastat homepage.html">Home</a></li>
+  <li><a href="100 Best Films Page.html">100 Best Films</a></li>
+  <li><a href="Actors.html">Actors & Actresses</a></li>
+  <li><a href="Directors.html">Directors</a></li>
+  <li><a href="Top Tens.html">Top Tens</a></li>
+  <li><a href="About Page.html">About</a></li>
+</ul>
+<br>
+<center><p><b>Bong, Joon-ho (1969 - present)</b><br><b>Country:</b> South Korea<br><b>Years Active:</b> 1994 - present<br><b>Top Films:</b> Memories of Murder (2003), The Host (2006), Parasite (2019)</p></center>
+<hr>
+<br>
+<table>
+  <tr>
+    <th>Rank</th>
+    <th>Film</th>
+    <th>Score</th>
+    <th>Year</th>
+    <th>Director</th>
+    <th>Country</th>
+    <th>Runtime</th>
+  </tr>
+</table>
+</div>
+   </body>
+</html>
