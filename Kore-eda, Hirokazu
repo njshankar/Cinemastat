@@ -71,7 +71,7 @@ li a:hover {
     <th>AW</th>
     <th>AN</th>
   </tr>
-  <tr>
+  <tr bgcolor = "DarkSeaGreen">
     <td>Maborosi</td>
     <td>85</td>
     <td>18</td>
@@ -83,12 +83,12 @@ li a:hover {
     <td></td>
     <td></td>
    <td></td>
-    <td></td>
+    <td>1841</td>
     <td></td>
     <td>9</td>
     <td>1</td>
   </tr>
-  <tr>
+  <tr bgcolor = "ForestGreen">
     <td>After Life</td>
     <td>78</td>
     <td>22</td>
@@ -100,7 +100,7 @@ li a:hover {
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>633</td>
     <td></td>
     <td>7</td>
     <td>8</td>
@@ -122,7 +122,7 @@ li a:hover {
     <td>0</td>
     <td>1</td>
   </tr>
-    <tr>
+    <tr bgcolor = "DarkSeaGreen">
     <td>Nobody Knows</td>
     <td>83</td>
     <td>72</td>
@@ -135,7 +135,7 @@ li a:hover {
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>305</td>
     <td>13</td>
     <td>10</td>
   </tr>
@@ -156,7 +156,7 @@ li a:hover {
     <td>1</td>
     <td>2</td>
   </tr>
-    <tr>
+    <tr bgcolor = "ForestGreen">
     <td>Still Walking</td>
     <td>86</td>
     <td>49</td>
@@ -169,7 +169,7 @@ li a:hover {
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>430</td>
     <td>11</td>
     <td>8</td>
   </tr>
@@ -190,7 +190,7 @@ li a:hover {
     <td>1</td>
     <td>4</td>
   </tr>
-    <tr>
+    <tr bgcolor = "DarkSeaGreen">
     <td>I Wish</td>
     <td>81</td>
     <td>54</td>
@@ -207,10 +207,10 @@ li a:hover {
     <td>5</td>
     <td>9</td>
   </tr>
-    <tr>
+    <tr bgcolor = "DarkSeaGreen">
     <td>Like Father, Like Son</td>
-    <td></td>
-    <td></td>
+    <td>76</td>
+    <td>62</td>
     <td>2013</td>
     <td>121</td>
     <td>Drama</td>
@@ -220,14 +220,14 @@ li a:hover {
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>589</td>
     <td>21</td>
     <td>44</td>
   </tr>
-    <tr>
+    <tr bgcolor = "DarkSeaGreen">
     <td>Our Little Sister</td>
-    <td></td>
-    <td></td>
+    <td>78</td>
+    <td>78</td>
     <td>2015</td>
     <td>127</td>
     <td>Drama</td>
@@ -241,10 +241,10 @@ li a:hover {
     <td>12</td>
     <td>19</td>
   </tr>
-    <tr>
+    <tr bgcolor = "DarkSeaGreen">
     <td>After the Storm</td>
-    <td></td>
-    <td></td>
+    <td>79</td>
+    <td>86</td>
     <td>2016</td>
     <td>118</td>
     <td>Comedy-Drama</td>
@@ -260,8 +260,8 @@ li a:hover {
   </tr>
     <tr>
     <td>The Third Murder</td>
-    <td></td>
-    <td></td>
+    <td>70</td>
+    <td>53</td>
     <td>2017</td>
     <td>124</td>
     <td>Mystery</td>
@@ -275,10 +275,10 @@ li a:hover {
     <td>6</td>
     <td>14</td>
   </tr>
-    <tr>
+    <tr bgcolor = "ForestGreen">
     <td>Shoplifters</td>
-    <td></td>
-    <td></td>
+    <td>89</td>
+    <td>124</td>
     <td>2018</td>
     <td>121</td>
     <td>Drama</td>
@@ -288,7 +288,7 @@ li a:hover {
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>444</td>
     <td>43</td>
     <td>81</td>
   </tr>
