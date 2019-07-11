@@ -1,0 +1,283 @@
+
+
+<html>
+<head>
+  <link rel="icon" href="cinemastat_icon.PNG">
+<style>
+table{
+width: 100%
+}
+table, th, td {
+  border: 1px solid black;
+}
+div {
+ background-color: #D0D0C5;
+  max-width: 70%;
+  border: 15px double black;
+  padding: 50px;
+  margin: auto;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: yellow;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
+}
+</style>
+   </head>
+   <body>
+<div>
+<img src="cinemastat logo.PNG" alt="cinemastat logo" style="width: 400px;height: 100px;">
+<br>
+<ul>
+  <li><a class="active" href="index.html">Home</a></li>
+  <li><a href="100 Best Films Page.html">100 Best Films</a></li>
+  <li><a href="Actors.html">Actors & Actresses</a></li>
+  <li><a href="Directors.html">Directors</a></li>
+  <li><a href="Top Tens.html">Top Tens</a></li>
+  <li><a href="About Page.html">About</a></li>
+</ul>
+<br>
+<center><p><b>Tarantino, Quentin (1963 - present)</b><br><b>Country:</b> USA<br><b>Years Active:</b> 1987 - present<br><b>Top Period:</b> 1992 - present<br>
+<b>Top Films:</b> Reservoir Dogs (1992), Pulp Fiction (1994)</p></center>
+<hr>
+<br>
+<table>
+  <tr>
+    <th>Film</th>
+    <th>Epic</th>
+    <th>Rev.</th>
+    <th>Year</th>
+    <th>Run</th>
+    <th>Genre</th>
+    <th>V</th>
+    <th>S</th>
+    <th>E</th>
+    <th>SS</th>
+    <th>VV</th>
+    <th>T</th>
+    <th>T21</th>   
+    <th>ABP</th>
+    <th>ABD</th>
+    <th>AW</th>
+    <th>AN</th>
+    <th>B3</th>
+  </tr>
+  <tr bgcolor = "GoldenRod">
+    <td>Reservoir Dogs</td>
+    <td>87</td>
+    <td>51</td>
+    <td>1992</td>
+    <td>99</td>
+    <td>Crime</td>
+    <td>3</td>
+    <td>1</td>
+    <td>97</td>
+    <td></td>
+    <td></td>
+    <td>313</td>
+    <td></td>   
+    <td><center></center></td>
+    <td><center></center></td>
+    <td>12</th>
+    <td>22</th>
+    <td></th>
+  </tr>
+    <tr bgcolor = "GoldenRod">
+    <td>Pulp Fiction</td>
+    <td>93</td>
+    <td>65</td>
+    <td>1994</td>
+    <td>154</td>
+    <td>Crime</td>
+    <td>3</td>
+    <td>2</td>
+    <td>9</td>
+    <td>127</td>
+    <td></td>
+    <td>76</td>
+    <td></td>   
+    <td><center>N</center></td>
+    <td><center>N</center></td>
+    <td>63</th>
+    <td>69</th>
+    <td>Palme d'Or</th>
+  </tr>
+    <tr bgcolor = "DarkSeaGreen">
+    <td>Jackie Brown</td>
+    <td>69</td>
+    <td>57</td>
+    <td>1997</td>
+    <td>154</td>
+    <td>Crime</td>
+    <td>2</td>
+    <td>1</td>
+    <td>215</td>
+    <td></td>
+    <td></td>
+    <td>1173</td>
+    <td></td>   
+    <td><center></center></td>
+    <td><center></center></td>
+    <td>8</th>
+    <td>22</th>
+    <td></th>
+  </tr>
+    <tr bgcolor = "ForestGreen">
+    <td>Kill Bill: Vol 1</td>
+    <td>77</td>
+    <td>171</td>
+    <td>2003</td>
+    <td>111</td>
+    <td>Action</td>
+    <td>3</td>
+    <td>1</td>
+    <td>325</td>
+    <td></td>
+    <td></td>
+    <td>930</td>
+    <td>103</td>   
+    <td><center></center></td>
+    <td><center></center></td>
+    <td>27</th>
+    <td>101</th>
+    <td></th>
+  </tr>
+    <tr bgcolor = "DarkSeaGreen">
+    <td>Kill Bill: Vol 2</td>
+    <td>80</td>
+    <td>179</td>
+    <td>2004</td>
+    <td>137</td>
+    <td>Action</td>
+    <td>3</td>
+    <td>1</td>
+    <td>423</td>
+    <td></td>
+    <td></td>
+    <td>1287</td>
+    <td>157</td>   
+    <td><center></center></td>
+    <td><center></center></td>
+    <td>22</th>
+    <td>82</th>
+    <td></th>
+  </tr>
+    <tr bgcolor = "DarkSeaGreen">
+    <td>Death Proof</td>
+    <td>60</td>
+    <td>33</td>
+    <td>2007</td>
+    <td>113</td>
+    <td>Action</td>
+    <td>3</td>
+    <td>1</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>1458</td>
+    <td>290</td>   
+    <td><center></center></td>
+    <td><center></center></td>
+    <td>0</th>
+    <td>7</th>
+    <td></th>
+  </tr>
+    <tr bgcolor = "ForestGreen">
+    <td>Inglourious Basterds</td>
+    <td>73</td>
+    <td>208</td>
+    <td>2009</td>
+    <td>153</td>
+    <td>War</td>
+    <td>3</td>
+    <td>1</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>1024</td>
+    <td>83</td>   
+    <td><center>N</center></td>
+    <td><center>N</center></td>
+    <td>130</th>
+    <td>170</th>
+    <td></th>
+  </tr>
+    <tr bgcolor = "DarkSeaGreen">
+    <td>Django Unchained</td>
+    <td>77</td>
+    <td>203</td>
+    <td>2012</td>
+    <td>165</td>
+    <td>Western</td>
+    <td>3</td>
+    <td>2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>304</td>   
+    <td><center></center></td>
+    <td><center></center></td>
+    <td>58</th>
+    <td>151</th>
+    <td></th>
+  </tr>
+    <tr bgcolor = "DarkSeaGreen">
+    <td>The Hateful Eight</td>
+    <td>71</td>
+    <td>187</td>
+    <td>2015</td>
+    <td>168</td>
+    <td>Crime</td>
+    <td>3</td>
+    <td>2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>927</td>   
+    <td><center></center></td>
+    <td><center></center></td>
+    <td>40</th>
+    <td>115</th>
+    <td></th>
+  </tr>
+    <tr bgcolor = "DarkSeaGreen">
+    <td>Once Upon a Time in Hollywood</td>
+    <td>85</td>
+    <td>32</td>
+    <td>2019</td>
+    <td>159</td>
+    <td>Comedy-Drama</td>
+    <td>3</td>
+    <td>2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>   
+    <td><center></center></td>
+    <td><center></center></td>
+    <td>3</th>
+    <td>3</th>
+    <td></th>
+  </tr>
+</table>
+</div>
+   </body>
+</html>
